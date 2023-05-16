@@ -1,0 +1,8 @@
+7) Round robin seems better for the most part
+
+8) FIFO might be better just for simplicity, if theres only a couple of jobs
+
+9) It would just be FIFO, best thing would have smaller quantum
+
+10-11) Can't figure out :/
+
